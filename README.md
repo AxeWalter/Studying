@@ -13,6 +13,7 @@ This repo is simply to store the most interesting codes I wrote while taking CS5
 ## Python Code
 *  **Finance**: a website where you simulate buying and selling stocks. Registering, logging, a page to check past transactions and an option to insert funds were also implemented. Python, Flask, CS50 SQL module, HTML and Jinja were used.
 *  **Birthdays**: a website that displays birthdays stored in a DB. Python, Flask, CS50 SQL module, HTML and Jinja were used.
+*  **Final Project**: the project has it's own README.
 
 
 # Português
@@ -28,3 +29,4 @@ Esse repositório foi feito para armazenar os códigos mais interessantes que es
 ## Código em Python
 * **Finance**: um site no qual você simula a compra e venda de ações. A funcionalidade de registro, login, uma página para conferir transações passadas e uma opção para inserir fundos também foram implementadas. Foi utilizado Python, Flask, o módulo CS50 SQL, HTML e Jinja.
 * **Birthdays**: um site que exibe aniversários armazenados em um banco de dados. Foi utilizado Python, Flask, o módulo CS50 SQL, HTML e Jinja.
+* **Final Project**: o projeto tem seu próprio README.
